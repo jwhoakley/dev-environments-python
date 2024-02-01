@@ -1,0 +1,11 @@
+Flask
+Flask-WTForms
+Flask-SQLAlchemy
+gunicorn
+Jinja2
+MarkupSafe
+numpy
+pandas
+SQLAlchemy
+Werkzeug
+WTForms
